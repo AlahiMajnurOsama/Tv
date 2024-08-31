@@ -148,11 +148,10 @@ https://utube.buddyxiptv.com/@dbcnewstv.m3u8
 https://utube.buddyxiptv.com/@EkattorTelevision.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/Independent.png" group-title="News - YT",Independent News
 https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
-#EXTINF:-1 group-title="News - YT" tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/SA%20Tv.jpg",SA TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/N%20Tv.png"group-title="News - YT",NTV
 https://utube.buddyxiptv.com/@NTVDigitalLive.m3u8
-#EXTINF:-1 group-title="News - YT"tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/R%20Tv.png",R TV
+#EXTINF:-1 group-title="News - YT"tvg-logo="https://raw.githubusercontent.com/eaminvai/BongoFlix/main/Bongo%20Flix%20Official/R%20Tv.png",R TV news
 https://utube.buddyxiptv.com/@RtvNews.m3u8
 #EXTINF:-1 group-title="News - YT"tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nJvd39yF9X0EUIvL1zXd-URsrX3-Syd_xphBRKHrt5bW0=s176-c-k-c0x00ffffff-no-rj",ATN News
 https://utube.buddyxiptv.com/@atnnewsltd.m3u8
