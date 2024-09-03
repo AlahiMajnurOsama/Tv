@@ -1,4 +1,3 @@
-
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTINF:-1 tvg-id="143" tvg-name="CNBC Tv18 Prime HD" tvg-type="Business" group-title="TS-JioTV Business" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",CNBC Tv18 Prime HD
 https://jio.jiotv.link/api/app/live.php?id=143&e=.m3u8
